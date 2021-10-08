@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,r){"use strict";r.r(e);var a=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},n=[function(){var t=this,e=t.$createElement,r=t._self._c||e;return r("div",{staticClass:"about"},[r("h1",[t._v("Marie MAUNOURY")]),r("embed",{staticStyle:{width:"700px",height:"600px"},attrs:{src:"cv_marie_maunoury.pdf",frameborder:"0"}})])}],s=r("2877"),c={},i=Object(s["a"])(c,a,n,!1,null,null,null);e["default"]=i.exports}}]);
+//# sourceMappingURL=about.1b9200f7.js.map
